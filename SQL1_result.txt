@@ -1,0 +1,45 @@
+a. director_name
+
+   Nick Yang
+
+
+b. movie_title
+   
+   The Hobbit
+
+c. i.actor_ name     CAD
+      James Asmon    1736150000
+      Jhon Jackson    595478260
+      Nova Ackon      5928010.4
+
+
+   ii. actor_name     JPY
+      James Asmon     150911500000
+       Jhon Jackson   760802600
+       Nova Ackon     515280904
+
+   iii. actor_name    RUB
+        James Asmon    93485000000
+        Jhon Jackson   32064214000
+        Nova Ackon     319200560
+
+   iv.  actor_name    EUR
+        James Asmon   148530000
+	Jhon Jackson  393931772
+        Nova Ackon    3921606.88
+
+    v.  actor_name    CHF
+	James Asmon    215305000
+	Jhon Jackson   416834782
+        Nova Ackon     4149607.28
+
+
+d. director_name
+    Mike Amma
+
+
+e. movie_title
+   (empty)           [since there is no Comedy Movie in the database]
+
+f. actor_name       actor_name
+    (empty)            (empty)   sicne we just only have one actor with blue eyes in the database.

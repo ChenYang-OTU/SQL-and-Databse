@@ -1,0 +1,16 @@
+movie_title          CAD
+'The Hobbit'	1736150000
+'Jhon Wick'	595478260
+'A Star is Born' 5928010.4
+'movie1'	58916000
+
+actor_name
+John Jackson
+
+
+movie_title
+(empty) cause there is no comedy movie in the database
+
+movie_title
+
+The Hobbit

@@ -1,0 +1,26 @@
+a. avg
+   21.333333333333
+
+b. count
+   0
+
+c. count
+    1
+
+d. count
+     1
+
+e.movie_title     min                   avg                max
+   Jhon Wick    458060200	     458060200          458060200
+  A Star is Born    4560008             4560008           4560008
+   The Hobbit    335500000            335500000           335500000
+
+f. avg
+   NULL (There is no director born in Toronto and no blue eyes as well)
+
+g. movie_title
+    NULL
+
+h. movie_title       count
+    Jhon Wick          2
+     The Hobbit        1
